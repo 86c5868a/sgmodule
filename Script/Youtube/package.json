@@ -13,13 +13,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bufbuild/protobuf": "^1.7.2",
-    "esbuild": "0.16.17"
+    "@bufbuild/protobuf": "^1.7.2"
   },
   "devDependencies": {
     "@bufbuild/buf": "^1.29.0",
     "@bufbuild/protoc-gen-es": "^1.7.2",
     "@typescript-eslint/eslint-plugin": "^5.48.1",
+    "esbuild": "^0.24.0",
     "eslint": "^8.31.0",
     "eslint-config-standard-with-typescript": "^26.0.0",
     "eslint-plugin-import": "^2.27.0",

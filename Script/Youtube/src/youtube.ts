@@ -40,8 +40,8 @@ export abstract class YouTubeMessage {
       debug: '启动调试模式'
     }
     const args = {
-      lyricLang: 'zh-Hans',
-      captionLang: 'zh-Hans',
+      lyricLang: 'off',
+      captionLang: 'off',
       blockUpload: true,
       blockImmersive: true,
       debug: false

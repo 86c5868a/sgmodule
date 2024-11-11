@@ -10,7 +10,7 @@
   },
   "author": "Maasea",
   "license": "ISC",
-  "dependencies": {
-    "esbuild": "^0.17.19"
+  "devDependencies": {
+    "esbuild": "^0.24.0"
   }
 }
